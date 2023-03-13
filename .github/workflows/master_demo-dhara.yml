@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Demo-dhara'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FC0DEB4FC0B045B4B01E7EB76D45DC94 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_68642FBA912742A4A534D25B8BBE9B62 }}
           package: '*.jar'
